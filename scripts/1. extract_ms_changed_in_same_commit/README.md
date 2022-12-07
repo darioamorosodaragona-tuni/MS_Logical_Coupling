@@ -1,0 +1,1 @@
+This script returns for each project all the commits where different microservices has been changed.
